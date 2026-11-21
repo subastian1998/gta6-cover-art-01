@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&w=1920&h=1080&layout=hero&grade=sunset&photos=neon-strip.jpg,boulevard.jpg,neon-portrait.jpg&title=VICE%20NIGHTS&subtitle=WELCOME%20TO%20THE%20SUNSET%20CITY","w":1280},{"h":1024,"name":"2-editor.jpg","query":"?shot=editor","w":1280},{"h":1280,"name":"3-cover-portrait.jpg","query":"?shot=cover&w=1080&h=1350&layout=grid&grade=neon&photos=neon-portrait.jpg,boulevard.jpg,neon-strip.jpg,neon-portrait.jpg&title=NEON%20HEAT&subtitle=AFTER%20DARK%20ON%20THE%20STRIP","w":1024},{"h":1080,"name":"4-cover-square.jpg","query":"?shot=cover&w=1080&h=1080&layout=trio&grade=noir&photos=boulevard.jpg,neon-portrait.jpg,neon-strip.jpg&title=GOLDEN%20HOUR&subtitle=VICE%20NIGHTS","w":1080}]
